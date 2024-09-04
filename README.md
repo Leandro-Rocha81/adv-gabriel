@@ -36,9 +36,9 @@ O site foi desenvolvido com foco em acessibilidade e usabilidade, proporcionando
 
 1. Clone este repositório para o seu ambiente local:
 
-   git clone https://github.com/seu-usuario/nome-repositorio.git
+   git clone https://github.com/Leandro-Rocha81/adv-gabriel.git
 
-2. Abra o arquivo `index.html` no seu navegador para visualizar o site.
+2. Abra o arquivo https://adv-gabriel.vercel.app no seu navegador para visualizar o site.
 3. Certifique-se de que as imagens e outros arquivos necessários estejam no diretório correto.
 
 ## Estrutura de Pastas
